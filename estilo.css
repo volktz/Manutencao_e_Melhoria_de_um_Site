@@ -57,7 +57,7 @@ e texto do logo do site) **/
 
     /** Definimos uma altura capaz de armazenar a imagem e o texto
     do logo do site. Neste caso, 100px **/    
-    height: 100px;
+    height: 70px;
 
     /** Desejamos posicionar esse elemento na página, utilizando
     elementos de posicionamento como left e top. Para que os mesmos
@@ -74,7 +74,7 @@ e texto do logo do site) **/
     todo o espaço horizontal do corpo da página. Para tanto, podemos
     definir o posicionamento partindo da esquerda para a metade do
     tamano do pai (50%) **/
-    left: 50%;
+    left: 20%;
 
     /** Como o posicionamento left considera o início do elemento
     (parte mais a esquerda do mesmo) o posicionamento ficará "torto",
@@ -95,8 +95,8 @@ que representa o logo do site**/
 #logoImg {
 
     /** Configura o tamanho do logo **/
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
 
     /** O comando float faz com que elementos que normalmente
     quebrariam linhas "flutuem" a esquerda ou a direita, nos
@@ -127,7 +127,7 @@ que representa o logo do site**/
     propriedade line-height é utilizada para tanto. Neste caso, estamos
     configurando a linha para ter o mesmo tamanho da imagem, fazendo
     com que o texto fique posicionado no meio desta **/
-    line-height: 100px;
+    line-height: 70px;
 
     /** Alguns elementos no HTML vem com margem embutida pelo
     navegador, headers, por exemplo, já possuem valores de margem
@@ -138,7 +138,7 @@ que representa o logo do site**/
     margin: 0;
 
     /** Define o tamanho da fonte para 50px **/
-    font-size: 50px;
+    font-size: 45px;
 }
 
 /** Seleciona a div principal que irá compor o menu da aplicação
