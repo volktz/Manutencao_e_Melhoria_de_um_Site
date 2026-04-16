@@ -530,3 +530,20 @@ principal do site **/
     /** Remove o underline do link **/
     text-decoration: none;
 }
+#Titulo {
+ 
+    position: static;
+    font-size: small;
+    color: #e50021;
+
+}
+
+#instagram img {
+    width: 20px;
+}
+
+#instagram {
+    position: absolute;
+    left: 1125px;
+    margin-top: 425px;
+}
