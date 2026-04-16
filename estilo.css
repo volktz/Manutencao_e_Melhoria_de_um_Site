@@ -297,7 +297,13 @@ principal do site **/
     height: 200px;
 
     /** Configura uma imagem de fundo da promoção **/
-    background-image: url('images/promocao.jpg');
+    background-image: url('.//images/Promoção.png');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 100%;
 }
 
 /** Seleciona o header principal da promoção (id "promocaoH1") **/
