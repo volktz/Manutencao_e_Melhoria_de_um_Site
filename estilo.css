@@ -473,7 +473,7 @@ principal do site **/
     left: 120px;
 
     /** Define uma altura para o item **/
-    height: 75px;
+    height: 85px;
 
     /** Define a cor de fundo do item **/
     background-color: #e50021;
@@ -498,10 +498,11 @@ principal do site **/
 #tel h4 {
 
     /** Remove as margens padrão do H **/
-    margin: 0;
+    margin: 0px;
 
     /** Define um tamanho de fonte para o H4 em 28px **/
-    font-size: 28px;
+    font-size:20px;
+    
 }
 
 /** Seçeciona os elementos h5 de um elemento com id "tel" **/
