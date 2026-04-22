@@ -543,7 +543,7 @@ principal do site **/
 }
 
 #instagram {
-    position: absolute;
-    left: 1125px;
-    margin-top: 425px;
+    position: fixed;
+    bottom: 10px;
+    left: 1375px;
 }
